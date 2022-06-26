@@ -1,0 +1,6 @@
+com.samsung.health.device_profile,6212007,6
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+Samsung,,,,,,360001,2022-04-05 09:10:55.906,2022-04-05 09:10:55.906,My Device,SM-F711B,,3JD7PDJoKB,com.sec.android.app.shealth,Z Flip3 di Lorenzo,4148ed5e-d17e-e2f7-449d-71f9d50db5af,
+Combined,,,,,,0,2022-04-05 09:11:15.385,2022-04-05 09:11:15.385,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Z Flip3 di Lorenzo,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,0,2022-04-05 09:11:18.538,2022-04-05 09:11:18.538,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Z Flip3 di Lorenzo,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung Electronics,1,103,10053,1,dca97836-77ac-4ecd-883c-d09544555d40.capability.json,360003,2022-04-20 19:56:27.275,2022-04-06 11:55:12.864,Galaxy Watch4 Classic,SM-R890,,SumqgnI0Fz,com.sec.android.app.shealth,Z Flip3 di Lorenzo,dca97836-77ac-4ecd-883c-d09544555d40,

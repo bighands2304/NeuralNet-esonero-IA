@@ -1,0 +1,3 @@
+com.samsung.shealth.exercise.weather,6212007,3
+uv_index,sunset_time,start_time,latitude,custom,wind_direction,phrase,sundown_time,temperature_scale,content_provider,update_time,create_time,type,longitude,temperature,humidity,time_offset,deviceuuid,exercise_id,pkg_name,wind_speed_unit,forecast_time,wind_speed,icon_info_id,datauuid
+,,2022-05-28 14:29:01.182,41.888447,,230.SO,Poco nuvoloso,,1,TWC,2022-05-28 17:07:03.921,2022-05-28 17:07:03.921,1,12.499703,27.0,43,UTC+0200,SumqgnI0Fz,aaa71f01-5090-451f-8560-35454875b554,com.sec.android.app.shealth,km/h,,10.0,2,4e11e36b-0c4d-4fcb-ae06-5377fcd52f76,

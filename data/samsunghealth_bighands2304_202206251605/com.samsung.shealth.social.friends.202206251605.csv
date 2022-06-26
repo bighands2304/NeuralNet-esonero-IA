@@ -1,0 +1,8 @@
+com.samsung.shealth.social.friends,6212007,2
+nick_name,device_type,msisdn,status,image_url,update_time,create_time,blocked,uid,level,gdpr_restricted,deviceuuid,pkg_name,invitation_allowed,display_name,datauuid
+Chiara,ANDROID,393930661113,0,,2022-04-05 09:16:01.687,2022-04-05 09:16:01.687,0,30041540,1,0,3JD7PDJoKB,com.sec.android.app.shealth,1,Chiara Russo,80ae977f-c056-44f9-b42c-f94571164cff,
+Andrea,ANDROID,393669054069,0,,2022-04-05 09:16:01.687,2022-04-05 09:16:01.687,0,38885388,1,0,3JD7PDJoKB,com.sec.android.app.shealth,1,Andrea Aci,80b46547-5b05-4656-8f05-2251bf62469d,
+andrfranz2013,ANDROID,393802082065,0,,2022-04-05 09:16:01.687,2022-04-05 09:16:01.687,0,42232193,1,0,3JD7PDJoKB,com.sec.android.app.shealth,0,Franzin,001a466c-8ac1-45d8-9c4f-1c6abb2d8e58,
+Alberto,ANDROID,393288786639,0,,2022-04-05 09:16:01.687,2022-04-05 09:16:01.687,0,57078435,1,0,3JD7PDJoKB,com.sec.android.app.shealth,0,Cliente Alberto Mw,d61ff2a5-e6aa-4cfe-b9c7-5b7553ebc1f8,
+Massimiliano Bianchi,ANDROID,393484418110,0,,2022-04-05 09:16:01.687,2022-04-05 09:16:01.687,0,64961548,1,0,3JD7PDJoKB,com.sec.android.app.shealth,0,Massimiliano Bianchi,4730eeaf-f8ae-42c5-a8dd-0e4b800dd3b1,
+flavioburi,ANDROID,393382032057,0,,2022-04-05 09:16:01.688,2022-04-05 09:16:01.688,0,67019431,1,0,3JD7PDJoKB,com.sec.android.app.shealth,0,Buri,4faee70d-e1d3-4b04-964b-186fb1fa036e,
